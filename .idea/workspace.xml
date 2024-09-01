@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aee4bd59-efda-477e-bfbe-144f51b1e691" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http-responce.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Booking_Api/BookingBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Booking_Api/Bookingdates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services_api/Booking_Api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestApi/Booking1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestApi/Booking2Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lEGYn2LmGrh4QqgvnkdzAJVmyq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Booking1Test.CreateNewBooking.executor": "Run",
+    "TestNG.Booking1Test.CreateNewBookingByUsingBulider.executor": "Run",
+    "TestNG.Booking1Test.CreateNewBookingByUsingsService.executor": "Run",
+    "TestNG.Booking1Test.testAuthentication.executor": "Run",
+    "TestNG.Booking2Test.CreateNewBookingByUsingsService.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/reastAssured/New folder/procode-restassured",
+    "onboarding.tips.debug.path": "E:/reastAssured/reastAssured-salem-procode/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Booking2Test.CreateNewBookingByUsingsService">
+    <configuration name="Booking1Test.CreateNewBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="reastAssured-salem-procode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestApi" />
+      <option name="MAIN_CLASS_NAME" value="TestApi.Booking1Test" />
+      <option name="METHOD_NAME" value="CreateNewBooking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Booking1Test.CreateNewBookingByUsingBulider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="reastAssured-salem-procode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestApi" />
+      <option name="MAIN_CLASS_NAME" value="TestApi.Booking1Test" />
+      <option name="METHOD_NAME" value="CreateNewBookingByUsingBulider" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Booking1Test.CreateNewBookingByUsingsService" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="reastAssured-salem-procode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestApi" />
+      <option name="MAIN_CLASS_NAME" value="TestApi.Booking1Test" />
+      <option name="METHOD_NAME" value="CreateNewBookingByUsingsService" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Booking1Test.testAuthentication" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="reastAssured-salem-procode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestApi" />
+      <option name="MAIN_CLASS_NAME" value="TestApi.Booking1Test" />
+      <option name="METHOD_NAME" value="testAuthentication" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Booking2Test.CreateNewBookingByUsingsService" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="reastAssured-salem-procode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestApi" />
+      <option name="MAIN_CLASS_NAME" value="TestApi.Booking2Test" />
+      <option name="METHOD_NAME" value="CreateNewBookingByUsingsService" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Booking2Test.CreateNewBookingByUsingsService" />
+        <item itemvalue="TestNG.Booking1Test.CreateNewBookingByUsingsService" />
+        <item itemvalue="TestNG.Booking1Test.CreateNewBookingByUsingBulider" />
+        <item itemvalue="TestNG.Booking1Test.CreateNewBooking" />
+        <item itemvalue="TestNG.Booking1Test.testAuthentication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aee4bd59-efda-477e-bfbe-144f51b1e691" name="Changes" comment="" />
+      <created>1724737873352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724737873352</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
